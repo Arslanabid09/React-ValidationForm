@@ -58,7 +58,7 @@ const Login = () => {
   }
   
   return (
-    <form className='flex flex-col w-11/12 space-y-4 bg-white p-10 rounded-xl mr-32 h-5/6 mb-4 '>
+    <form className='flex flex-col   space-y-4 bg-white p-10 rounded-xl md:mr-16 lg:mr-32 h-5/6 mb-4 '>
     <h1 className='text-4xl text-center font-extrabold my-4'>Sign Up</h1>
     <div className='flex flex-col'>
       <label htmlFor="username" className='font-bold my-2'>Username</label>
